@@ -1,0 +1,9 @@
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\bin\Debug\koronet.exe.config
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\bin\Debug\koronet.exe
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\bin\Debug\koronet.pdb
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.csprojResolveAssemblyReference.cache
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.Form1.resources
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.Properties.Resources.resources
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.csproj.GenerateResource.Cache
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.exe
+D:\Get your cursor away\1KULIAH BOS\SMT 4\1PRAKTIKUM\DKP\TUGAS AKHIR\koronet\koronet\obj\Debug\koronet.pdb
